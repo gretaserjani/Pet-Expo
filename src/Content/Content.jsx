@@ -1,6 +1,5 @@
 // import "../Styles/main.css"
 import '../Content/Content.css';
-import content from "../Images/content.png"
 import home from "../Images/home.png"
 
 
